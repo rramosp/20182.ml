@@ -6,7 +6,7 @@ import pandas as pd
 import warnings
 
 from bokeh.plotting import *
-from bokeh.charts import *
+#from bokeh.charts import *
 from bokeh.models import *
 from bokeh.tile_providers import *
 import bokeh
