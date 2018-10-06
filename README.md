@@ -20,6 +20,23 @@
 35% Problemsets 6-9 <br/>
 30% Data analytics project
 
+## Fechas
+
+Sesiones segunda parta del curso
+
+- 5/oct 2pm-5pm  Kernel Methods
+- 6/Oct (sabado) 1pm-3pm Dataset  
+- 12/oct 2pm-5pm  Ensemble Methods
+- 19/oct 2pm-5pm Learning the representation
+- 26/oct 2pm-5pm Dataset
+- 2/nov 2pm-5pm CNN
+- 9/nov 2pm-5pm Revisión tarea dataset y de otras técnicas (clustering, PCA; RNN)
+
+Entregas:
+- 7 Oct (domingo) 11pm talleres 2-5
+- 12 Nov (lunes) 11pm talleres 6-9
+- 18 Nov (domingo) 11pm dataset
+
 ## Máquina Virtual
 
 Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda con Jupyter Notebooks disponibles en  [localhost:8008](http://localhost:8008) una vez que la máquina arranca.
@@ -38,7 +55,7 @@ Deberás de abordar un problema de analítica de datos, 1) elegir dataset, 2) de
 Hay muchas fuentes de datos y sitios de competiciones de machine learning en internet, entre ellas: [kaggle](https://www.kaggle.com/competitions), [kdnudgets](http://www.kdnuggets.com/competitions/) 
 
 
-#### Entrega
+## Entrega data analytics project
 
 Un archivo llamado **PROJECT.zip** que contenga:
 
