@@ -66,7 +66,7 @@ Un archivo llamado **PROJECT.zip** que contenga:
 - el dataset (p.ej. _datos de ventas + datos de sensores en máquinas de producción_)
 - la tarea de machine learning (p.ej. _detectar anomalías en producción y medir su impacto en costes_)
 
-**Sección 2: Desarrollo del proyecto*
+**Sección 2: Desarrollo del proyecto**
 - descripción del preprocesado de datos.
 - estrategias de generación de modelos predictivos.
 - resúmen de resultados predictivos y su impacto en el problema abordado.
