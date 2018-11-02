@@ -17,7 +17,7 @@
 ## Calificación
 
 35% Problemsets 2-5 <br/>
-35% Problemsets 6-9 <br/>
+35% Problemsets 6-8 <br/>
 30% Data analytics project
 
 ## Fechas
